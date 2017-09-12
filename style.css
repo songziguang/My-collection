@@ -2,21 +2,21 @@
 	margin: 0;
 	padding: 0;
 }
-body{
+body {
 	font-family: 'Lato', sans-serif;
 	color:#747704;
 	font-weight: 300;
 }
-.text-mured{
+.text-mured {
 	color:#bcbbbb;
 }
-.text-thin{
+.text-thin {
 	font-weight: 100;
 }
 
-.title-super{
+.title-super {
 	font-size: 60px;
 }
-.title-logo{
+.title-logo {
 	margin-top: 20px;
 }
